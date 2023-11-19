@@ -38,3 +38,6 @@
 <h4>💬  Sometimes I like to write things here...</h4>
   <a href="https://www.medium.com/@mhemon170697"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
+
+![Snake animation](https://github.com/mhebd/mhebd/blob/output/github-contribution-grid-snake.svg)
