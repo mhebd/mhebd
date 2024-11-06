@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, This is <b>Md. Mehedi Hassan Emon</b> 👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, This is <b>Mehedi Hassan Emon</b> 👩‍💻 </h1>
 
 
   <h3 align="center">A passionate web application developer from Khulna, Bangladesh.</h3>
