@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, This is <b>Mehedi Hassan Emon</b> 👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, This is <b>MH Emon</b> 👩‍💻 </h1>
 
 
   <h3 align="center">A passionate web application developer from Khulna, Bangladesh.</h3>
@@ -18,7 +18,7 @@
 
 <hr>
 
-<h4>🔭  I’m currently working on ...</h4>
+<h4>🔭  I’m currently working on...</h4>
 
 <h5>Web Developer</h5>
 <p >
