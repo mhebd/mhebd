@@ -127,9 +127,6 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
   </a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" alt="gsap" width="40" height="40" />
-  </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="threejs" width="40" height="40" />
   </a>
@@ -139,9 +136,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhebd&show_icons=true&locale=en&layout=compact" alt="mhebd" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhebd&" alt="mhebd" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhebd&show_icons=true&locale=en" alt="mhebd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhebd&" alt="mhebd" /></p>
 
 
 <p align='right'>
