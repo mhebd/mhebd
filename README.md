@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp;&nbsp;
 </p>
@@ -140,7 +139,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhebd&show_icons=true&locale=en&layout=compact" alt="mhebd" />
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhebd&show_icons=true&locale=en" alt="mhebd" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhebd&show_icons=true&locale=en" alt="mhebd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhebd&" alt="mhebd" /></p>
 
